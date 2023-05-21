@@ -1,4 +1,6 @@
-time = Time.new(2021, 05, 23, 12, 3, 0)
+#!/usr/bin/env ruby
+
+time = Time.new()
 
 minute_offset = ((time.min - 3) % 60) / 5
 
