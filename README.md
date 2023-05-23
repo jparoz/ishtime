@@ -25,7 +25,7 @@ an appropriate equivalent for the language's context should be provided.
 | [Lua]            | ✅                  | ❌          | ❌                     |
 
 [Javascript]: ishtime.js
-[Rust]: ishtime-rs
+[Rust]: ishtime-rs/src/main.rs
 [Ruby]: ishtime.rb
 [Haskell]: ishtime.hs
 [Chicken Scheme]: ishtime.scm
