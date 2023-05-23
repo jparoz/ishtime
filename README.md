@@ -15,7 +15,11 @@ an appropriate equivalent for the language's context should be provided.
 ## Implementations
 
 | Language | Command line output | Library API | Specify time to format |
-|------------|----|----|----|
-| Javascript | ✅ | ✅ | ✅ |
-| Rust       | ✅ | ✅ | ✅ |
-| Ruby       | ✅ | ❌ | ❌ |
+| -------------- | -- | -- | -- |
+| Javascript     | ✅ | ✅ | ✅ |
+| Rust           | ✅ | ✅ | ✅ |
+| Ruby           | ✅ | ❌ | ❌ |
+| Haskell        | ✅ | ❌ | ❌ |
+| Chicken Scheme | ✅ | ❌ | ❌ |
+| Standard ML    | ✅ | ❌ | ❌ |
+| Lua            | ✅ | ❌ | ❌ |
