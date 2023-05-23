@@ -22,6 +22,7 @@ an appropriate equivalent for the language's context should be provided.
 | [Haskell]        | ✅                  | ❌          | ❌                     |
 | [Chicken Scheme] | ✅                  | ❌          | ❌                     |
 | [Standard ML]    | ✅                  | ❌          | ❌                     |
+| [Elixir]         | ✅                  | ✅          | ✅                     |
 | [Lua]            | ✅                  | ❌          | ❌                     |
 
 [Javascript]: ishtime.js
@@ -30,4 +31,5 @@ an appropriate equivalent for the language's context should be provided.
 [Haskell]: ishtime.hs
 [Chicken Scheme]: ishtime.scm
 [Standard ML]: ishtime.sml
+[Elixir]: ishtime.exs
 [Lua]: ishtime.lua
