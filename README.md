@@ -14,12 +14,20 @@ an appropriate equivalent for the language's context should be provided.
 
 ## Implementations
 
-| Language | Command line output | Library API | Specify time to format |
-| -------------- | -- | -- | -- |
-| Javascript     | ✅ | ✅ | ✅ |
-| Rust           | ✅ | ✅ | ✅ |
-| Ruby           | ✅ | ❌ | ❌ |
-| Haskell        | ✅ | ❌ | ❌ |
-| Chicken Scheme | ✅ | ❌ | ❌ |
-| Standard ML    | ✅ | ❌ | ❌ |
-| Lua            | ✅ | ❌ | ❌ |
+| Language         | Command line output | Library API | Specify time to format |
+| ---------------- | :-----------------: | :---------: | :--------------------: |
+| [Javascript]     | ✅                  | ✅          | ✅                     |
+| [Rust]           | ✅                  | ✅          | ✅                     |
+| [Ruby]           | ✅                  | ❌          | ❌                     |
+| [Haskell]        | ✅                  | ❌          | ❌                     |
+| [Chicken Scheme] | ✅                  | ❌          | ❌                     |
+| [Standard ML]    | ✅                  | ❌          | ❌                     |
+| [Lua]            | ✅                  | ❌          | ❌                     |
+
+[Javascript]: ishtime.js
+[Rust]: ishtime-rs
+[Ruby]: ishtime.rb
+[Haskell]: ishtime.hs
+[Chicken Scheme]: ishtime.scm
+[Standard ML]: ishtime.sml
+[Lua]: ishtime.lua
